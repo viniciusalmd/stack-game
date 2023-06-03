@@ -28,7 +28,7 @@ while (true) {
     console.log ("Pilha 1 - " + stack1)
     console.log ("Pilha 2 - " + stack2)
     console.log ("Pilha 3 - " + stack3)
-    console.log (23)
+    console.log (42)
 
 
 
